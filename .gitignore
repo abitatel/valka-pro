@@ -1,0 +1,11 @@
+/bitrix/
+/upload/
+/login/
+/marketplace/
+*.log
+.htaccess
+.htaccess.restore
+.access.php
+.idea/
+.DS_Store
+Thumbs.db
