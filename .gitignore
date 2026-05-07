@@ -3,6 +3,7 @@
 /login/
 /marketplace/
 *.log
+/deploy.log
 .htaccess
 .htaccess.restore
 .access.php
