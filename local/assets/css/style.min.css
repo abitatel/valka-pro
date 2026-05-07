@@ -766,10 +766,14 @@ section {
   background-position: center top, center bottom, center top;
   z-index: 0;
 }
-.block .img.vignette_2 {
+.block .img.vignette_2,
+.img.vignette_2 {
   position: relative;
   padding: 0;
   height: 450px;
+}
+.img.vignette_3 {
+  height: 340px;
 }
 .block .img.vignette_2 img.img-services {
   height: auto;

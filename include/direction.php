@@ -2,7 +2,7 @@
 <section class="block-8">
     <div class="max">
         <div class="deyat togle_txt">
-            <div class="img vignette_2">
+            <div class="img vignette_2 vignette_3">
                 <img src="/local/assets/img/5.png" alt="">
             </div>
             <div class="cont">
